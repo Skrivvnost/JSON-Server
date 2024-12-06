@@ -1,21 +1,28 @@
 {
-    "categories": [
+    "people": [
         {
             "id": 1,
-            "title": "Category 1"
+            "firstname": "Dale",
+            "surname": "Barbara",
+            "age": 36
         },
         {
             "id": 2,
-            "title": "Category 2"
+            "firstname": "Julia",
+            "surname": "Shumway",
+            "age": 34
         },
         {
             "id": 3,
-            "title": "Category 3"
+            "firstname": "Angie",
+            "surname": "McAlister",
+            "age": 16
+        },
+        {
+            "id": 4,
+            "firstname": "James",
+            "surname": "Rennie",
+            "age": 55
         }
-    ],
-   
-    "people": {
-        "firstname": "Cloe",
-        "lastname": "Ferrara"
-    }
+    ]
 }
